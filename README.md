@@ -36,21 +36,88 @@ Building Intelligent Systems using ML • NLP • RAG • LLMs • Semantic Sear
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
-**Languages:** Python • SQL • MySQL
+<p align="center">
 
-**Machine Learning:** Scikit-Learn • TensorFlow • Keras • XGBoost
+### 👨‍💻 Programming Languages
 
-**Generative AI:** LangChain • Hugging Face • RAG • Prompt Engineering
-
-**Vector Databases:** ChromaDB • FAISS
-
-**Data Science:** Pandas • NumPy • Matplotlib • Seaborn
-
-**BI Tools:** Power BI • Tableau • Excel
+<img src="https://skillicons.dev/icons?i=python,mysql"/>
 
 ---
+
+### 📊 Data Analysis & Visualization
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+
+---
+
+### 🤖 Machine Learning
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+
+---
+
+### 🧠 Deep Learning & NLP
+
+<img src="https://img.shields.io/badge/NLP-Natural_Language_Processing-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Text_Classification-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sentiment_Analysis-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer_Vision-red?style=for-the-badge"/>
+
+---
+
+### 🚀 Generative AI
+
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-1E88E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-Enterprise_AI-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-Large_Language_Models-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+---
+
+### 🔍 Semantic Search & Vector Databases
+
+<img src="https://img.shields.io/badge/ChromaDB-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Semantic_Search-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hybrid_Search-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BM25-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector_Search-black?style=for-the-badge"/>
+
+---
+
+### ⚙️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+---
+
+### 📈 Data Science Concepts
+
+<img src="https://img.shields.io/badge/EDA-Exploratory_Data_Analysis-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Feature_Engineering-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Statistics-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hypothesis_Testing-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Model_Evaluation-purple?style=for-the-badge"/>
+
+</p>
+
 
 ## 🌟 Featured Projects
 
