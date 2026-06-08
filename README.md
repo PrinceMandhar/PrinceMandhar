@@ -108,16 +108,7 @@ Building Intelligent Systems using ML • NLP • RAG • LLMs • Semantic Sear
 * 📊 Sales Analytics Dashboard
 * 🤖 Spam Detection System
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=PrinceMandhar&show_icons=true&theme=tokyonight"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceMandhar&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 ## 📫 Connect With Me
 
